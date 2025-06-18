@@ -31,3 +31,14 @@ Copy the Endoscapes-SG201 dataset:
 ```bash
 cp -rv /data/kayoung/repos/graph_wo_detector/easy_annotation/Endoscapes-SG201 ./
 ```
+
+## 🌿 Create Your Own Branch
+
+Before running experiments, create and switch to your own branch:
+
+```bash
+git branch your_branch_name
+git checkout your_branch_name
+```
+
+This will keep your experiments isolated from the main branch.
