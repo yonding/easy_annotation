@@ -1,6 +1,3 @@
-물론입니다! 아래 내용을 **한 번에 복사**해서 `README.md` 파일에 붙여넣으면 바로 사용할 수 있습니다:
-
----
 
 ````markdown
 # Easy Annotation
@@ -45,8 +42,3 @@ Copy the Endoscapes-SG201 dataset:
 cp -rv /data/kayoung/repos/graph_wo_detector/easy_annotation/Endoscapes-SG201 ./
 ```
 
----
-
-For further details or issues, please open an [issue](https://github.com/yonding/easy_annotation/issues).
-
-```
