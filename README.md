@@ -1,7 +1,5 @@
 # Easy Annotation
 
-This repository provides annotation utilities for EndoViT-based models, along with dataset handling and pre-trained weight loading.
-
 ## 🛠️ Environment Setup
 
 Clone the repository and move into the project directory:
